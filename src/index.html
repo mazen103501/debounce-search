@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Debounced Search</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <div class="search-container">
+      <label for="search-input">Search:</label>
+      <input
+        type="text"
+        id="search-input"
+        placeholder="Search for a location..."
+      />
+      <span></span>
+      <div id="loading">Loading...</div>
+    </div>
+    <ul id="results-list"></ul>
+    <script src="./debounced-search.js"></script>
+  </body>
+</html>
