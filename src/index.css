@@ -1,0 +1,40 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 20px;
+}
+
+header {
+  margin-bottom: 30px;
+}
+
+.search-container {
+  margin-bottom: 20px;
+  display: flex;
+  flex-direction: column;
+}
+
+.search-container span,
+.error {
+  margin-bottom: 20px;
+  color: red;
+}
+
+#search-input {
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+#results-list {
+  list-style-type: none;
+  padding: 0;
+}
+
+#results-list li {
+  padding: 10px;
+  border-bottom: 1px solid #ccc;
+}
+
+#loading {
+  color: blue;
+  font-weight: bold;
+}
