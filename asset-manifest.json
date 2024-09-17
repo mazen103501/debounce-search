@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/debounce-search/static/css/main.f708822a.css",
+    "main.js": "/debounce-search/static/js/main.7dcbdad9.js",
+    "static/js/453.e52305e5.chunk.js": "/debounce-search/static/js/453.e52305e5.chunk.js",
+    "index.html": "/debounce-search/index.html",
+    "main.f708822a.css.map": "/debounce-search/static/css/main.f708822a.css.map",
+    "main.7dcbdad9.js.map": "/debounce-search/static/js/main.7dcbdad9.js.map",
+    "453.e52305e5.chunk.js.map": "/debounce-search/static/js/453.e52305e5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f708822a.css",
+    "static/js/main.7dcbdad9.js"
+  ]
+}
